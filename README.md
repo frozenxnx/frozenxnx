@@ -6,7 +6,6 @@ Aspiring Software Engineer passionate about solving real-world problems with cod
 - 🧑‍💻 I love to code and build things.
 - 💡 Main languages: **Java**, **Python**
 - 🗃️ Comfortable with **MySQL** for data storage and management.
-- 🤖 My favorite project: **House Price Prediction System using Machine Learning** – combining data, algorithms, and business sense to make smart predictions!
 - 🗣️ Strong communication skills – I work well in teams and enjoy collaborating with others.
 
 ## 🌐 Find Me Here
