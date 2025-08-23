@@ -12,13 +12,6 @@ Aspiring Software Engineer passionate about solving real-world problems with cod
 - [GitHub](https://github.com/frozenxnx)
 - [LinkedIn](https://www.linkedin.com/in/aaditya-srivastava-b4069b250)
 
-<!-- LeetCode Badges -->
-<p align="center">
-  <a href="https://leetcode.com/AadityaSrv/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.png" height="40" alt="LeetCode Logo"/>
-    <img src="https://img.shields.io/badge/LeetCode-AadityaSrv-orange?logo=leetcode" alt="LeetCode Username" />
-  </a>
-</p>
 
 <!-- GitHub Stats -->
 <p align="center">
