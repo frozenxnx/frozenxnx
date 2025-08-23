@@ -12,21 +12,6 @@ Aspiring Software Engineer passionate about solving real-world problems with cod
 - [GitHub](https://github.com/frozenxnx)
 - [LinkedIn](https://www.linkedin.com/in/aaditya-srivastava-b4069b250)
 
-## 🎉 Fun Fact
-Did you know? The first computer virus was created in 1983 and was named "Elk Cloner." Thankfully, my code is much friendlier!
-
----
-
-Let's connect and create something amazing together 🚀
-
-
-<!-- Profile Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=frozenxnx&label=Profile%20views&color=0e75b6&style=flat" alt="frozenxnx" />
-  <img src="https://img.shields.io/github/followers/frozenxnx?label=Followers&style=flat" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/frozenxnx?label=Stars&style=flat" alt="GitHub Stars" />
-</p>
-
 <!-- LeetCode Badges -->
 <p align="center">
   <a href="https://leetcode.com/AadityaSrv/">
