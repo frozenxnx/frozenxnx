@@ -12,10 +12,6 @@ Aspiring Software Engineer passionate about solving real-world problems with cod
 - 🗃️ Comfortable with **MySQL** for data storage and management.
 - 🗣️ Strong communication skills – I work well in teams and enjoy collaborating with others.
 
-## 🌐 Find Me Here
-- [GitHub](https://github.com/frozenxnx)
-- [LinkedIn](https://www.linkedin.com/in/aaditya-srivastava-b4069b250)
-
 
 <!-- GitHub Stats -->
 <p align="center">
