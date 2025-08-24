@@ -24,5 +24,6 @@ Aspiring Software Engineer passionate about solving real-world problems with cod
 ## 🏅 More Badges
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/298b6a36bab489052e9628dd0abf184f9c3d966e77fce1072374a8df11061bed/68747470733a2f2f6173736574732e6c656574636f64652e636f6d2f7374617469635f6173736574732f6f74686572732f323535302e676966" width="360" height="360" alt="Animated LeetCode Badge"/>
+  <img src="https://camo.githubusercontent.com/298b6a36bab489052e9628dd0abf184f9c3d966e77fce1072374a8df11061bed/68747470733a2f2f6173736574732e6c656574636f64652e636f6d2f7374617469635f6173736574732f6f74686572732f323535302e676966" width="360" height="360" alt="Animated LeetCode Badge 1"/>
+  <img src="https://camo.githubusercontent.com/b5074bb27865f4842afeda76bd8c0a05add6ab3be601d5bdeedadf72f5a90940/68747470733a2f2f6173736574732e6c656574636f64652e636f6d2f7374617469635f6173736574732f6d61726b6574696e672f323032342d3230302e676966" width="360" height="360" alt="Animated LeetCode Badge 2"/>
 </p>
