@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="853" height="8" alt="Animated Divider"/>
+</p>
+
 # 👋 Hi, I'm Aaditya Srivastava
 
 Aspiring Software Engineer passionate about solving real-world problems with code.
