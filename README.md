@@ -16,7 +16,7 @@ Aspiring Software Engineer passionate about solving real-world problems with cod
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=frozenxnx&show_icons=true&theme=dracula" alt="GitHub Stats" />
-
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=frozenxnx&theme=dracula" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozenxnx&layout=compact&theme=dracula" alt="Most Used Languages" />
 </p>
 
