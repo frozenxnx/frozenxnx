@@ -32,3 +32,13 @@ Aspiring Software Engineer passionate about solving real-world problems with cod
 
   <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="200" height="205" alt="LeetCode 200 GIF">
 </p>
+
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=frozenxnx&theme=dracula&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
